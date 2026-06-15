@@ -1,0 +1,5 @@
+﻿"Rental ID",Customer,Pet,Species,"Rental Date","Expected Return","Actual Return",Days,"Total Fee",Status
+4,"Ana Garcia",Buddy,Dog,2026-06-07,2026-06-19,2026-06-07,12,6000.00,Returned
+3,"Jose Reyes",Buddy,Dog,2026-06-07,2026-06-11,2026-06-07,4,2000.00,Returned
+2,"Borlita Abano",Luna,Cat,2026-06-07,2026-06-09,2026-06-07,2,600.00,Returned
+1,"Borlita Abano",Dino,Dinosaur,2026-06-07,2026-06-09,2026-06-07,2,20000.00,Returned
